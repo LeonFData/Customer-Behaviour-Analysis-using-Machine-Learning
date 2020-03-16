@@ -9,9 +9,8 @@ better decision on asset allocation by using making enough full use of the data 
 - Due to the **Non-Disclosure Agreement between our data lab and industrial partners**, I am **NOT** able to release the data sources and the details of methods on the pulic platform. Here, by using the other data sources (unrelated to my project), I'd like to share some methodologies which can effectively deal with the time series data, and the mixed type of data source. Also, I would share the feature engineering insights when doing the customer behaviour analysis. 
 
 - This part of knowledge should be free and shared:
-  * Denoising methods: time series data can be denoisd in order to extract undelying trends
-  * 
-  * Feature engineering tips: some general features (usually works, try them first)
-  * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world
-  * Dynamic time warping (DTW): clustering of time series data
-  * Machine learning algorithms: pros and cons
+  * Denoising methods: time series data can be denoisd in order to extract undelying trends (click here)
+  * Feature engineering tips: some general features (usually works, try them first) (click here)
+  * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world (click here)
+  * Dynamic time warping (DTW): clustering of time series data (click here)
+  * Machine learning algorithms: pros and cons (click here)
