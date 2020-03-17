@@ -16,7 +16,7 @@ My project: Applied machine learning methodologies in financial service and bank
   * Denoising methods: time series data can be denoisd in order to extract undelying trends (click [**here**](https://github.com/LeonFData/Customer-Behaviour-Analysis-using-Machine-Learning/blob/master/notebook/denoise.ipynb))
     * Wavelet transform
     * Averaging smoothing
-  * Feature engineering tips: some general features (usually works, try them first) (click here)
+  * Feature engineering tips: some general features (usually works, try them first) (click [**here**](pics/feature_engineering.png))
   * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world (click here)
   * Dynamic time warping (DTW): clustering of time series data (click here)
   * Machine learning algorithms: pros and cons (click here)
