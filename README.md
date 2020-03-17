@@ -12,7 +12,7 @@ My project: Applied machine learning methodologies in financial service and bank
 
 - Due to the **Non-Disclosure Agreement**, I am **NOT** able to release the data sources, details of methods, and codes on the pulic platform. Here, by using the other data sources (unrelated to my project), I'd like to share some methodologies which can effectively deal with the time series data, and the mixed type of data source. Also, I would share the feature engineering insights when doing the customer behaviour analysis. 
 
-- This part of knowledge should be free and shared:
+- **This part of knowledge should be free and shared**:
   * Denoising methods: time series data can be denoisd in order to extract undelying trends (click here)
   * Feature engineering tips: some general features (usually works, try them first) (click here)
   * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world (click here)
