@@ -20,10 +20,10 @@ My project: Applied machine learning methodologies in financial service and bank
   * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world (click here)
   * Dynamic time warping (DTW): clustering of time series data (click here)
   * Time series data modeling
-    1. Moving Average
-    2. Exponential Moving Average
-    3. Holt Linear
-    4. ARIMA
-    5. Prophet (Facebook opensource tool)
-    6. Convolutional Neural Network
-    7. Long-Short-Term-Memory (LSTM)
+    * Moving Average
+    * Exponential Moving Average
+    * Holt Linear
+    * ARIMA
+    * Prophet (Facebook opensource tool)
+    * Convolutional Neural Network
+    * Long-Short-Term-Memory (LSTM)
