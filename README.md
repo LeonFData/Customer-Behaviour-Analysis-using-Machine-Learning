@@ -19,4 +19,11 @@ My project: Applied machine learning methodologies in financial service and bank
   * Feature engineering tips: some general features (usually works, try them first) (click [**here**](pics/feature_engineering.png))
   * K-prototypes (mixed data clusteing): dealing mixed numeric and categorical data in the real world (click here)
   * Dynamic time warping (DTW): clustering of time series data (click here)
-  * Machine learning algorithms: pros and cons (click here)
+  * Time series data modeling
+    1. Moving Average
+    2. Exponential Moving Average
+    3. Holt Linear
+    4. ARIMA
+    5. Prophet (Facebook opensource tool)
+    6. Convolutional Neural Network
+    7. Long-Short-Term-Memory (LSTM)
